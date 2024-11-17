@@ -602,7 +602,7 @@ body {
   font-family: request;
   font-size: 3em;
   color: transparent;
-  -webkit-text-stroke: 2px rgb(251, 255, 0);
+  -webkit-text-stroke: 2px rgb(255, 0, 0);
   animation: projects-head both;
   animation-timeline: view(70% 5%);
 }
